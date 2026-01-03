@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Hey there! I'm Tessa, a fourth-year computer engineer (and armchair economist) at the University of Virginia. 
+I've had industry experience in embedded software development, along with extensive experience as an undergraduate researcher in the UVA Dependable Systems and Analytics Lab. 
+When I'm not knee-deep in projects, you'll probably find me at the gym or baking ciabatta while listening to the latest Freakonomics episode. 
+Feel free to reach out - whether it's to chat about research, share career advice, or to just to say hello!
