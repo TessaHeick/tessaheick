@@ -3,8 +3,8 @@ title: "Remote Garden Monitoring System"
 excerpt: "Low-power embedded system for long-range environmental monitoring."
 layout: single
 header:
-  image: /assets/images/projects/IMG_9813.PNG
-  teaser: /assets/images/projects/IMG_9813.PNG
+  image: /assets/images/projects/IMG_9813.png
+  teaser: /assets/images/projects/IMG_9813.png
 ---
 
 ## Problem
