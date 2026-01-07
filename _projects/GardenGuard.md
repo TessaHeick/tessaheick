@@ -14,17 +14,19 @@ Designed and implemented a low-power embedded system for remote monitoring of so
 
 ## System Design
 - STM32-based microcontrollers running C-based firmware
-- Sensors for soil moisture, temperature, and motion (PIR)
+- Sensors for soil moisture, temperature, and motion (Passive Infrared)
 - Solar power management subsystem
 - LoRa P2P communication
 
+![GardenGuard UI design](/assets/images/GG_UI.jpg "GardenGuard UI")
+
 ## Key Technical Decisions
-- Selected LoRa to balance range, power consumption, and data rate
-- Implemented timed sensing intervals and aggressive sleep modes
+- Selected LoRa to balance range and power consumption
+- Implemented timed sensing intervals and sleep mode for system longevity
 - Calibrated sensors in circuitry and firmware to improve measurement accuracy
 
 ## Results
-- Achieved reliable (<25% packet loss) long-range data transmission up to 1 mile
+- Achieved reliable (<25% packet loss) data transmission up to 1 mile in medium-density environment
 - System duration of 8 days on one charge (~12.5mAh average consumption)
 - Stable sensor readings across environmental conditions, including rain
 
