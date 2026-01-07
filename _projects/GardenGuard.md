@@ -3,7 +3,7 @@ title: "Remote Garden Monitoring System"
 excerpt: "Low-power embedded system for long-range environmental monitoring."
 layout: single
 header:
-  teaser: "{{ '/assets/images/IMG_9813.PNG' | relative_url }}"
+  teaser: assets/images/IMG_9813.PNG
 ---
 
 ## Problem
