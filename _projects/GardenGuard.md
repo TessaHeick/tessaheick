@@ -3,7 +3,7 @@ title: "Remote Garden Monitoring System"
 excerpt: "Low-power embedded system for long-range environmental monitoring."
 layout: single
 header:
-  image: <img src="assets/images/IMG_9813.PNG" width="50%" />
+  image: assets/images/IMG_9813.PNG
 ---
 
 ## Problem
@@ -18,7 +18,7 @@ Designed and implemented a low-power embedded system for remote monitoring of so
 - Solar power management subsystem
 - LoRa P2P communication
 
-<img src="/assets/images/GG_UI.jpg" alt="GardenGuard UI" style="height: 300px; width:100px:"/>
+<img src="/assets/images/GG_UI.jpg" alt="GardenGuard UI" style="height: 300px; width:100px;"/>
 
 ## Key Technical Decisions
 - Selected LoRa to balance range and power consumption
