@@ -18,7 +18,7 @@ Designed and implemented a low-power embedded system for remote monitoring of so
 - Solar power management subsystem
 - LoRa P2P communication
 
-<img src="/assets/images/GG_UI.jpg" alt="GardenGuard UI" style="height: 300px; width:100px;"/>
+!{Garden Guard UI](/assets/images/GG_UI.jpg "GardenGuard UI")
 
 ## Key Technical Decisions
 - Selected LoRa to balance range and power consumption
