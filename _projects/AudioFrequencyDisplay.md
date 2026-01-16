@@ -18,7 +18,7 @@ which to design second order filters.
 - Dual-option power system: by waveform generator or battery.
 
 <video width="800" controls>
-  <source src="{ '/assets/images/VisualizerVideo.mp4' }" type="video/mp4">
+  <source src="{ '/assets/images/VisualizerVideo.mp4' }" >
 </video>
 
 ## Results
