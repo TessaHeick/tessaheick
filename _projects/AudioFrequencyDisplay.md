@@ -17,6 +17,10 @@ which to design second order filters.
 - Differently colored LEDs, with circuitry designed to each's unique characteristics. 
 - Dual-option power system: by waveform generator or battery.
 
+<video width="800" controls>
+  <source src="{ '/assets/images/VisualizerVideo.mp4' }" type="video/mp4">
+</video>
+
 ## Results
 - Achieved reliable (<25% packet loss) data transmission up to 1 mile in medium-density environment
 - System duration of 8 days on one charge (~12.5mAh average consumption)
