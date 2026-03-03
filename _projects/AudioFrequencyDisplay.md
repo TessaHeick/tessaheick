@@ -21,10 +21,6 @@ which to design second order filters.
   <source src="{ '/assets/images/VisualizerVideo.mp4' }" >
 </video>
 
-## Results
-- Achieved reliable (<25% packet loss) data transmission up to 1 mile in medium-density environment
-- System duration of 8 days on one charge (~12.5mAh average consumption)
-- Stable sensor readings across environmental conditions, including rain
 
 ## Skills & Tools
 - KiCad
